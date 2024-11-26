@@ -1,0 +1,12 @@
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\bin\Debug\StudentsProgressApp.exe.config
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\bin\Debug\StudentsProgressApp.exe
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\bin\Debug\StudentsProgressApp.pdb
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\obj\Debug\StudentsProgressApp.csproj.AssemblyReference.cache
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\obj\Debug\StudentsProgressApp.Registration.resources
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\obj\Debug\StudentsProgressApp.Properties.Resources.resources
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\obj\Debug\StudentsProgressApp.csproj.GenerateResource.cache
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\obj\Debug\StudentsProgressApp.csproj.CoreCompileInputs.cache
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\obj\Debug\StudentsProgressApp.exe
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\obj\Debug\StudentsProgressApp.pdb
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\obj\Debug\StudentsProgressApp.MainSt.resources
+C:\Users\sonic\OneDrive\Desktop\Folder\Курсова\StudentsProgressApp\StudentsProgressApp\obj\Debug\StudentsProgressApp.MainTch.resources
